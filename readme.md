@@ -11,3 +11,4 @@ Ovo je drugi paragraf.
     * Neuredjena podlista
     * Neuredjena podlista
 [Link za Google](https://www.google.rs)
+![Sample slika](https://image.shutterstock.com/image-vector/sample-stamp-square-grunge-sign-260nw-1474408826.jpg)
